@@ -1,0 +1,53 @@
+*{          /* Vai mudar a pagina inteira */
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+.menu1 {
+    display: flex;
+    background-color: rgb(35, 82, 82);
+    padding: 20px;
+    }
+
+li{
+    color: rgb(225, 240, 13);
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+li:hover{
+    color: aliceblue;
+}
+
+#contato {
+    text-align: center; /* centraliza texto */
+    color: rgb(0, 255, 42);
+    justify-content: center; /* centraliza tudo */  
+}
+#contato:hover{
+    color: aquamarine;
+}
+
+.tamanho{
+    font-size: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.container{
+    display:flex;
+
+}
+.imagem{
+    margin-right:10px ;
+}
+
+
+/* . para class  | # para id */
+
+
